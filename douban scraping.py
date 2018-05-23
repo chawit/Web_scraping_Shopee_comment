@@ -1,5 +1,17 @@
 # -*- coding: utf-8 -*-
 """
+Created on Thu May 10 01:38:55 2018
+
+@author: lhs
+"""
+
+# -*- coding: utf-8 -*-
+"""
+Created on Wed May  9 16:31:09 2018
+
+@author: lhs
+"""
+
 import requests
 from requests.exceptions import RequestException
 from multiprocessing import Pool
